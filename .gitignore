@@ -1,0 +1,7 @@
+#ignore all files in directories
+*.DS_Store
+.Rproj.user
+*.Rhistory
+.tmp
+.DS_Store
+*.Rproj
